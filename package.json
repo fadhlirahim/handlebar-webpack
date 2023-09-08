@@ -1,0 +1,21 @@
+{
+	"name": "kt-web",
+	"version": "1.0.0",
+	"description": "",
+	"private": true,
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "webpack"
+	},
+	"keywords": [],
+	"author": "fadhli <fadhlirahim@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"handlebars": "^4.7.8"
+	},
+	"devDependencies": {
+		"handlebars-webpack-plugin": "^2.2.1",
+		"webpack": "^5.88.2",
+		"webpack-cli": "^5.1.4"
+	}
+}
